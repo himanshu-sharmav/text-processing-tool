@@ -1,0 +1,4 @@
+Hello world!
+This is a test file.
+Let's test word count, character count, and line count.
+This file has several lines and words for testing purposes.

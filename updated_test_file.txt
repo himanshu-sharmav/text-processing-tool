@@ -1,0 +1,3 @@
+Hello world!
+This is a exam file.
+Let's exam word count, character count, and line count.
