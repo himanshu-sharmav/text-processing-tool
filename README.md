@@ -96,13 +96,3 @@ Feel free to open an issue or submit a pull request if you'd like to contribute!
 ## License
 
 This project is licensed under the MIT License.
-```
-
-### Key Sections:
-- **Installation**: Step-by-step guide to set up the project.
-- **Usage**: Shows how to use the command-line options.
-- **Testing**: Instructions for running the test suite.
-- **Documentation**: Explains how to generate the HTML documentation using Sphinx.
-- **Contributing & License**: Encourage contributions and mention the license type.
-
-Feel free to customize this `README.md` as needed. Let me know if you'd like further improvements!
